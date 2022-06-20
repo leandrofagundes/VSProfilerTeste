@@ -52,7 +52,7 @@ namespace StressProfiler
 
                 CheckFile(fileName);
 
-                //CreateFile(fileName);
+                CreateFile(fileName);
 
             }
         }
